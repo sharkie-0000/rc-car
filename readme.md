@@ -45,7 +45,7 @@ The motor driver takes the directional signal and PWM signal from the ESP32. The
 
 I designed this circuit with a ‘wire’ method rather than designing a custom PCB. This made it easier to connect things directly.
 
-(image)[./images/circuit.png]
+![image](./images/circuit.png)
 
 
 
@@ -136,7 +136,7 @@ I modified some measurements and component placements to get everything to fit.
 
 For the first print I had some issues with tolerances and one section wasn’t strong enough when putting everything together. I modified my design in fusion 360 and printed the new version.
 
-(image)[./images/cad.png]
+[image](./images/cad.png)
 
 ## Circuit Design
 
@@ -198,7 +198,7 @@ The updated printed chassis fits the motors properly and keeps the main componen
 
 **Assembly Images:**
 
-(image)[./images/build.png]
+![imag](./images/build.png)
 
 ## Known Issues and Improvements
 
