@@ -24,17 +24,20 @@ Easy to assemble
 
 ## BOM – Bill of Materials
 
-| Component | Quantity | Purpose |
-|-----------|:--------:|---------|
-| ESP32 Development Board | 1 | Main controller |
-| BO Geared DC Motor | 2 | Driving the robot |
-| BO Motor Wheels | 2 | Movement and traction |
-| TB6612FNG Motor Driver | 1 | Controls both motors |
-| 18650 Li-ion Battery | 2 | Main power source |
-| 18650 Battery Holder | 1 | Holds and connects batteries |
-| Ball Caster Wheel | 1 | Supports the front and allows turning |
-| Jumper Wires | As required | Electrical connections |
-| 3D Printed Chassis | 1 Set | Robot frame and component mounting |
+## Bill of Materials (BOM)
+
+| Component | Quantity | Price (USD) | Purchase Link |
+|---|---:|---:|---|
+| ESP32 Dev Board | 1 | $3.96 | [Buy](https://robu.in/product/esp-wroom-32-wifi-bluetooth-networking-smart-component-development-board/) |
+| TB6612FNG Motor Driver | 1 | $1.45 | [Buy](https://robu.in/product/motor-driver-tb6612fng-module-performance-ultra-small-volume-3-pi-matching-performance-ultra-l298n/) |
+| TT Dual Shaft DC Motor | 2 | $1.27/pc | [Buy](https://robu.in/product/230rpm-straight-type-dual-side-6v-bo-motor/) |
+| 65mm Wheels | 2 | $0.25/pc | [Buy](https://robu.in/product/robot-smart-car-wheel-tyre-bo-motor/) |
+| 18650 Li-ion Battery | 2 | $1.45/pc | [Buy](https://robocraze.com/products/18650-2200mah-3-7v-battery-cylinder-type-blue) |
+| 18650 Battery Holder | 1 | $0.26 | [Buy](https://robu.in/product/black-plastic-storage-box-case-holder-battery-3-x-18650-cell-box-without-cover/) |
+| LM2596S Buck Converter | 1 | $0.44 | [Buy](https://robu.in/product/lm2596s-dc-dc-buck-converter-power-supply/) |
+| Screws/Nuts/Spacers | As required | $4–$5 | Local Hardware Store |
+| 3D Printed Parts | 12 | Self Printed | Self Printed |
+| **Total** | | **$16.05–$17.05** | |
 
 ## Circuit Diagram
 
