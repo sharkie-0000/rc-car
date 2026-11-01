@@ -139,7 +139,7 @@ I modified some measurements and component placements to get everything to fit.
 
 For the first print I had some issues with tolerances and one section wasn’t strong enough when putting everything together. I modified my design in fusion 360 and printed the new version.
 
-[image](./images/cad.png)
+![image](./images/cad.png)
 
 ## Circuit Design
 
@@ -185,7 +185,8 @@ The main control code includes:
 | Left Motor PWM | GPIO 14 |
 | Standby | GPIO 13 |
 
-(Add the final ESP32 source code here)
+
+
 
 ## Assembly and Testing
 
